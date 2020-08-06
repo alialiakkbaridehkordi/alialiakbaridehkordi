@@ -1,10 +1,12 @@
 ### Resume
-       ALi Aliakbari Dehkordi
-    <body>
-        <img src="WhatsApp Image 2020-08-06 at 2.47.38 PM.jpeg"  width="100" height="100"/>
-     </body>   
-
+ <body>
+        <img src="images/myImage.png" width="100" height="100"/>
+    </body>
+      
+      
 ---
+Name: Ali Aliakbari Dehkordi 
+
 TEL  : 09131842371
 
 Mail : akbari_al6446@yahoo.com <br/>
