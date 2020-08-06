@@ -14,7 +14,6 @@ TEL  : 09131842371
 Mail : akbari_al6446@yahoo.com <br/>
 
 Quera Resume : [link to Resume.](https://quera.ir/qcv/) <br/>
-
     
 ### Education
 ---
