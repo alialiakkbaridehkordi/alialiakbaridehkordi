@@ -2,11 +2,10 @@
 
 <html>
       <head>
-	<meta charset="utf-8"/>
-        ALi Aliakbari Dehkordi
+           ALi Aliakbari Dehkordi
     <body>
         <img src="WhatsApp Image 2020-08-06 at 2.47.38 PM.jpeg"  width="100" height="100"/>
-    </body>
+    
 
 ---
 TEL  : 09131842371
@@ -47,4 +46,6 @@ Quera Resume : [link to Resume.](https://quera.ir/qcv/) <br/>
 ---
 + IT Engineer at Shahrekord University of Medical Sciences
 - since 2008 until Now
+
+</body>
  </html>
