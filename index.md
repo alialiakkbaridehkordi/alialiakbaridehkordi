@@ -1,6 +1,6 @@
 ### Resume
  <body>
-        <img src="images/ali.jpeg" width="150" height="150"/>
+        <img src="ali.jpeg" width="150" height="150"/>
     </body>
       
       
