@@ -1,9 +1,9 @@
 ### Resume
 
-<html>
+
       <head>
            ALi Aliakbari Dehkordi
-    <body>
+  
         <img src="WhatsApp Image 2020-08-06 at 2.47.38 PM.jpeg"  width="100" height="100"/>
     
 
@@ -47,5 +47,4 @@ Quera Resume : [link to Resume.](https://quera.ir/qcv/) <br/>
 + IT Engineer at Shahrekord University of Medical Sciences
 - since 2008 until Now
 
-</body>
- </html>
+
