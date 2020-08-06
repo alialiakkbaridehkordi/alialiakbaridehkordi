@@ -3,7 +3,7 @@
 <div class="stuff">
   <br><br>
   <h1>Resume</h1>
-  <h2>Ali Aliakbari Dehkordi</h2>
+  <h2>Emily</h2>
   <hr />
   <br>
   <p class="head">Interests</p>
@@ -43,4 +43,4 @@
 </div>
 <div class="right"></div>
 <div id="footer">
-  <h2 id="name">Aliakbari</h2></div>
+  <h2 id="name">Emily</h2></div>
