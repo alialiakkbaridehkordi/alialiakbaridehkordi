@@ -3,14 +3,12 @@
 <html>
       <head>
 	<meta charset="utf-8"/>
-        <title>ALi Aliakbari Dehkordi</title>
+        ALi Aliakbari Dehkordi
     <body>
         <img src="WhatsApp Image 2020-08-06 at 2.47.38 PM.jpeg"  width="100" height="100"/>
     </body>
 </html>
 ---
-Name :
-
 TEL  : 09131842371
 
 Mail : akbari_al6446@yahoo.com <br/>
@@ -29,6 +27,8 @@ Quera Resume : [link to Resume.](https://quera.ir/qcv/) <br/>
 + Bachelor of Science: applied mathematics
    - 2006-2010, Payamenoor university of shahrekord
 
+### Language skills
++Persian and English (Reading, Writing, Speaking and Listening)
 
 ### Skill Highlights
 ---
@@ -47,4 +47,5 @@ Quera Resume : [link to Resume.](https://quera.ir/qcv/) <br/>
 ### Working Experience
 ---
 + IT Engineer at Shahrekord University of Medical Sciences
+- since 2008 until Now
  
