@@ -1,11 +1,8 @@
 ### Resume
-
-
-      <head>
-           ALi Aliakbari Dehkordi
-  
+       ALi Aliakbari Dehkordi
+    <body>
         <img src="WhatsApp Image 2020-08-06 at 2.47.38 PM.jpeg"  width="100" height="100"/>
-    
+     </body>   
 
 ---
 TEL  : 09131842371
